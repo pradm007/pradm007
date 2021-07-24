@@ -51,5 +51,4 @@ Experienced Software Engineer with a demonstrated history of working in the soft
 
 #### Stats
 
-![Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=pradm007&layout=compact&theme=radical)
 ![Pradeep's github stats](https://github-readme-stats.vercel.app/api?username=pradm007&show_icons=true&theme=radical)
