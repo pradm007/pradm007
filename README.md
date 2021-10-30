@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-Experienced Software Engineer with a demonstrated history of working in the software industry. Skilled as MEAN/MERN stack in NodeJs, MongoDB, Android, C, C++, Java, etc alongside DevOps. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science from the National Institute of Technology Jamshedpur and currently pursuing Masters in Computer Science from The University Of British Columbia, Canada. 
+Experienced Software Engineer with a demonstrated history of working in the software industry. Skilled as MEAN/MERN stack in NodeJs, MongoDB, Android, C, C++, Java, etc alongside DevOps. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science from the National Institute of Technology Jamshedpur and Masters in Computer Science from The University Of British Columbia, Canada. 
 
 </br>
 
