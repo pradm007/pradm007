@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-Experienced Software Engineer with a demonstrated history of working in the software industry. Skilled MEAN/MERN stack developer with proficiency in Javascript, C++, Java, Golang and DevOps. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science from the National Institute of Technology Jamshedpur and Masters in Computer Science from The University Of British Columbia, Canada. 
+Experienced Software Engineer with a demonstrated history of working in the software industry. Primarily a Backend developer however I am skilled in MERN fullstack development, with proficiency in Javascript, C++ and Java. Graduated with Bachelor of Technology (B.Tech.) in Computer Science from the National Institute of Technology Jamshedpur (2013) and Masters in Computer Science from The University Of British Columbia, Canada (2021). 
 
 </br>
 
-- 🔭 I’m currently working on Personal Development, Time Management, Various research topics catering to Safety-Critical Systems & Robustness Verification along with Problem Solving Skills
-- 🌱 I’m currently learning AI/ML techniques for safety critical systems
+- 🔭 I’m currently working on improving my problme solving skills
+- 🌱 I’m currently learning GraphQL and gRPC protocols/framework
 - 👯 I’m looking to collaborate on open-source projects related to improvement in software development platforms and programming languages
-- 🤔 I’m looking for help with machine learning topics
+- 🤔 
 - 💬 Ask me about my journey of life and you would be bored
 - 📫 How to reach me: [pradeepmahato007@gmail.com](mailto:pradeepmahato007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pradeep-mahato-bab4b045/)
 - 😄 Pronouns: He/Him/His
