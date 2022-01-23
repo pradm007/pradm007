@@ -11,14 +11,12 @@ Experienced Software Engineer with a demonstrated history of working in the soft
 
 </br>
 
-- 🔭 I’m currently working on improving my problme solving skills
-- 🌱 I’m currently learning GraphQL and gRPC protocols/framework
+- 🔭 I’m currently working on improving my problem solving skills
+- 🌱 I’m currently learning new frameworks
 - 👯 I’m looking to collaborate on open-source projects related to improvement in software development platforms and programming languages
-- 🤔 I'm looking for opportunities as a backend developer in well established and growing industry
-- 💬 Ask me about my journey of life and you would be bored
+- 🤔 I'm looking for challenging opportunities as a backend developer
 - 📫 How to reach me: [pradeepmahato007@gmail.com](mailto:pradeepmahato007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pradeep-mahato-bab4b045/)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: We are all a part of someone's dream 😄
 
 </br>
 
